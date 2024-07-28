@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-""" module doc """
+"""
+start Flask application
+"""
+
 from flask import Flask
 from flask import render_template
 
