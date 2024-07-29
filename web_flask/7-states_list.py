@@ -1,5 +1,9 @@
 #!/usr/bin/python3
-""" module doc """
+#!/usr/bin/python3
+"""
+start Flask application
+"""
+
 from flask import Flask
 from flask import render_template
 from models import storage
